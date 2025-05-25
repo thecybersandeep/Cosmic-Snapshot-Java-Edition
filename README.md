@@ -25,8 +25,7 @@ You can also use the provided scripts:
 - Unix/Mac: `./run.sh`
 - Windows: `run.bat`
 
-Here's a clearer and more polished version of your message:
 
-The API key used here is explicitly exposed as it was created with a temporary account. If you reach the usage limit, please generate your own API key from [https://api.nasa.gov/](https://api.nasa.gov/).
+**The API key used here is explicitly exposed as it was created with a temporary account. If you reach the usage limit, please generate your own API key from [https://api.nasa.gov/](https://api.nasa.gov/).**
 
 
