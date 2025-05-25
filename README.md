@@ -10,7 +10,6 @@ This application includes a Capture The Flag (CTF) challenge focused on SSL/TLS 
 ## Requirements
 
 - Java 17 or higher
-- Maven (for building from source)
 
 ## Quick Start
 
